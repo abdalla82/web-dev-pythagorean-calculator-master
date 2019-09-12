@@ -1,0 +1,63 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    background-color: maroon;
+}
+
+body {
+
+    border-radius: 2%;
+    background-color: white;
+    font-family: 'Maven Pro', sans-serif;
+    padding: 30px 75px;
+    width: 600px;
+    margin: 10px auto;
+
+
+}
+
+p {
+    letter-spacing: 0.3;
+}
+
+span.box {
+    border: solid 1px;
+    font-weight:bold;
+    font-variant: small-caps;
+}
+
+span.question {
+    color: maroon;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+div.box {
+    background-color: rgb(235, 235, 235);
+    border: solid grey;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+button {
+    border: solid grey 0.3px;
+    background-color: #808000;
+    color: white;
+    padding: 5px 15px;
+    font-size:15px;
+    font-variant: small-caps;
+}
+
+h1 {
+    color: #808000;
+}
+
+h2,
+h3 {
+    color: maroon;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+
+}
